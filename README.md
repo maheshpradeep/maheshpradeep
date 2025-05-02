@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mahesh Pradeep Abekoon 👋</h1>
-<h3 align="center">Cloud Engineer | Network Engineer | Software Developer | AR Developer | AI Enthusiast</h3>
+<h3 align="center">| DevOps Enthusiast | Passionate about Cloud Computing, Networking, and System Administration | Interested in Software Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maheshpradeep&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,11 +9,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Mobile AR Applications** & **Cloud-Based Solutions**
-- 🌱 Learning **Python, C#, Azure, Google Cloud, AWS**
+- 🔭 Currently exploring **DevOps Projects**, including **CI/CD Pipelines** & **Cloud Infrastructure Automation**  
+- 🌱 Learning **Azure, Google Cloud, AWS, Docker, and GitHub Actions,Python, Bash**
 - 👨‍💻 Check out my work at [maheshabekoon.me](https://maheshabekoon.me)
 - 📫 Reach me at **maheshpradeepabekoon@gmail.com**
-- ⚡ Fun fact: **I love exploring emerging technologies and building futuristic solutions!**
 
 ---
 
@@ -63,13 +62,12 @@
 ---
 
 ### 🌈 My Interests
-- Cloud Engineering
-- Network Engineering
-- Software Development
-- Augmented Reality Development
-- Artificial Intelligence & Machine Learning
+- **DevOps** & **Cloud Engineering**
+- **Network Engineering** & **Infrastructure Automation**
+- **Software Development**
+- **Augmented Reality Development**
+- **Artificial Intelligence** & **Machine Learning**
 
----
 
 ### 📫 Let's Collaborate!
 I’m open to interesting projects, collaborations, or just a friendly chat. Feel free to reach out!
